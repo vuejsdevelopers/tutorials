@@ -128,7 +128,7 @@ So, coming back to our product object which looked like this when we defined it:
 
 After Vue instantiates we can view this object in the console and see the getters and setters that Vue has defined on it:
 
-![](/images/posts/reactivity_1.png)
+![](reactivity_1.png)
 
 These getter and setter functions have a number of jobs (check the [source code](https://github.com/vuejs/vue)), but one of the jobs of `rectiveSetter` is to trigger a change notification which results in a page re-render!
 
@@ -143,7 +143,7 @@ myProduct.qty = 1;
 
 Look and see that although `qty` is defined on the object there are no getters/setters for it:
 
-![](/images/posts/reactivity_2.png)
+![](reactivity_2.png)
 
 ## Updating reactive objects
 
