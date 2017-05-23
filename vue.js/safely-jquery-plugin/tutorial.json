@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "jQuery and VueJS don't play well together. But if you really need to use a jQuery plugin in a Vue project, you can wrap it in a component to mitigate some of the potential problems. In this article I'll show you how!",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "How To (Safely) Use A jQuery Plugin With Vue.js",
+  "repository": "https://github.com/vuejsdevelopers"
+}
