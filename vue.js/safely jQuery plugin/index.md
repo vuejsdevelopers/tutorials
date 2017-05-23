@@ -10,7 +10,7 @@ And just to show off a bit, I'm even going to send data between this jQuery plug
 
 See it working in this [JS Bin](https://jsbin.com/bepikonube/2/edit?html,js,output).
 
-![jQuery UI Datepicker](/images/posts/jquery_plugin_1.png)
+![jQuery UI Datepicker](jquery_plugin_1.png)
 
 *jQuery UI Datepicker*
 
