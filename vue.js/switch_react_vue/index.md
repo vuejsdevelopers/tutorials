@@ -6,7 +6,7 @@ React and Vue are kind of like Coke and Pepsi, so much of what you can do in Rea
 
 I'll focus on the differences in this article so you're ready to jump into Vue and be productive straight away.
 
-*Note: this article was originally posted (here on the Vue.js Developers blog)[http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/?jsdojo_id=cjs_srv] on 2017/05/28*
+*Note: this article was originally posted [here on the Vue.js Developers blog](http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/?jsdojo_id=cjs_srv) on 2017/05/28*
 
 ## How much difference is there between React and Vue?
 
@@ -211,4 +211,4 @@ Vue also has a Flux-based state management library called Vuex. Again, it's simi
 
 I don't have time to cover it in this article so I'll cover it next week's article. [Join my newsletter](/newsletter) to get an email update when it's ready!
 
-* Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](http://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_srv) *
+*Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](http://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_srv)*
