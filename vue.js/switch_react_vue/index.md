@@ -83,7 +83,7 @@ One big difference: there's no equivalent for `shouldComponentUpdate`. It's not 
 
 One of Vue's initialisation steps is to walk through all of the data properties and convert them to getters and setters. If you look below, you can see how the `message` data property has a get and set function added to it:
 
-![](/images/posts/switch_react_vue_1.png)
+![](switch_react_vue_1.png)
 
 Vue added these getters and setters to enable dependency tracking and change notification when the property is accessed or modified.
 
