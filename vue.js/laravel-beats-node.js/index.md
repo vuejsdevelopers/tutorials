@@ -151,7 +151,7 @@ If you want to make a real-time app with a ton of concurrent users, or if server
 
 If you look at the last few releases of Laravel (e.g 5.3 adding Vue as the default JS framework, and 5.4 adding Laravel Mix as a Webpack API) it's clear that the creators intend for Laravel to stay relevant in the world of SPAs.
 
-> If you're interested in hearing when my book *Vue.js Full Stack Development* will be done, [jump on my newsletter](http://vuejsdevelopers.com/newsletter) as I'll have more info about it soon!
+> If you're interested in hearing when my book *Vue.js Full Stack Development* will be done, [jump on my newsletter](http://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_lbn) as I'll have more info about it soon!
 
 ## Epilogue: Server rendering alternatives
 
