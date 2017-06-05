@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Node.js has a lot of advantages as a backend for SPAs. It allows you to have a single language in your project and gives you features like server-side rendering. Are Laravel users being left in the dust by full stack JavaScript?",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Single Page App Backends: Where Laravel Beats Node.js",
+  "repository": "https://github.com/vuejsdevelopers"
+}
