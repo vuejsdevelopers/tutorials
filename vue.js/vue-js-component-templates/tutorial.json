@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "There’s plenty of choice when it comes to defining component templates in Vue. By my count there are at least seven different ways! In this article we’ll go through examples of each and address the pros and cons so you know which one is the best to use in any particular situation.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "7 Ways To Define A Component Template in Vue.js",
+  "repository": "https://github.com/vuejsdevelopers"
+}
