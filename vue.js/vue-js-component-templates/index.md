@@ -22,7 +22,8 @@ By default a template will be defined as a string in your JS file. I think we ca
 
 ```js
 Vue.component('my-checkbox', {
-	template: `<div class="checkbox-wrapper" @click="check"><div :class="{ checkbox: true, checked: checked }"></div><div class="title">{{ title }}</div></div>`,
+	template: `<div class="checkbox-wrapper" @click="check">
+			<div :class="{ checkbox: true, checked: checked }"></div>			<div class="title">{{ title }}</div></div>`,
 	data() {
 		return { checked: false, title: 'Check me' }
 	},
