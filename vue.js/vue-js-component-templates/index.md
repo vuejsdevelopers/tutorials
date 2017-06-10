@@ -43,9 +43,9 @@ This method isn't perfect, though; I find that most IDEs still give you grief wi
 ```js
 Vue.component('my-checkbox', {
 	template: `<div class="checkbox-wrapper" @click="check">
-							<div :class="{ checkbox: true, checked: checked }"></div>
-							<div class="title">{{ title }}</div>
-						</div>`,
+		        <div :class="{ checkbox: true, checked: checked }"></div>
+			<div class="title">{{ title }}</div>
+		</div>`,
 	data() {
 		return { checked: false, title: 'Check me' }
 	},
@@ -126,34 +126,34 @@ Vue.component('my-checkbox', {
 		return createElement(
 			'div',
 		  	{
-					attrs: {
-						'class': 'checkbox-wrapper'
-					},
-					on: {
-						click: this.check
-					}
-		  	},
-		  	[
-		    	createElement(
+				attrs: {
+					'class': 'checkbox-wrapper'
+				},
+				on: {
+					click: this.check
+				}
+		  },
+		    [
+		     createElement(
 	      		'div',
 	      		{
-	        		'class': {
-	        			checkbox: true,
-	        			checked: this.checked
+	        	   'class': {
+	        		checkbox: true,
+	        		checked: this.checked
         			}
-	      		}
-		    	),
-		    	createElement(
+	      	  }
+		    ),
+		     createElement(
 	      		'div',
 	      		{
-	        		attrs: {
+	        	    attrs: {
 	          		'class': 'title'
-	        		}
-	      		},
-	      		[ this.title ]
-		    	)
-		  	]
-		);
+	        	}
+	      	},
+	      	[ this.title ]
+		    )
+		  ]
+	   );
 	}
 });
 ```
