@@ -23,14 +23,14 @@ By default a template will be defined as a string in your JS file. I think we ca
 ```js
 Vue.component('my-checkbox', {
    template: `<div class="checkbox-wrapper" @click="check">
-                 <div :class="{ checkbox: true, checked: checked }"></div>
-                 <div class="title"></div>
+               <div :class="{ checkbox: true, checked: checked }"></div>
+               <div class="title"></div>
               </div>`,
        data() {
-           return { checked: false, title: 'Check me' }
+         return { checked: false, title: 'Check me' }
 	},
-	   methods: {
-              check() { this.checked = !this.checked; }
+	 methods: {
+           check() { this.checked = !this.checked; }
 	}
 });
 ```
@@ -46,14 +46,14 @@ This method isn't perfect, though; I find that most IDEs still give you grief wi
 ```js
 Vue.component('my-checkbox', {
    template: `<div class="checkbox-wrapper" @click="check">
-	         <div :class="{ checkbox: true, checked: checked }"></div>
-		 <div class="title">{{ title }}</div>
+	       <div :class="{ checkbox: true, checked: checked }"></div>
+	       <div class="title">{{ title }}</div>
 	      </div>`,
         data() {
-             return { checked: false, title: 'Check me' }
+           return { checked: false, title: 'Check me' }
 	},
-	     methods: {
-		check() { this.checked = !this.checked; }
+	   methods: {
+            check() { this.checked = !this.checked; }
 	}
 });
 ```
@@ -67,11 +67,11 @@ I like that this method allows you to write your HTML in proper HTML markup, but
 ```js
 Vue.component('my-checkbox', {
    template: '#checkbox-template',
-	data() {
-	   return { checked: false, title: 'Check me' }
+    data() {
+      return { checked: false, title: 'Check me' }
 	},
-	   methods: {
-	      check() { this.checked = !this.checked; }
+      methods: {
+        check() { this.checked = !this.checked; }
 	}
 });
 ```
@@ -93,11 +93,11 @@ It suffers the same downside as x-templates, but one advantage is that content i
 
 ```js
 Vue.component('my-checkbox', {
-   data() {
-	return { checked: false, title: 'Check me' }
+ data() {
+  return { checked: false, title: 'Check me' }
 	},
-	methods: {
-	   check() { this.checked = !this.checked; }
+  methods: {
+   check() { this.checked = !this.checked; }
 	}
 });
 ```
@@ -119,45 +119,45 @@ However, the advantages are that your template is closer to the compiler and giv
 
 ```js
 Vue.component('my-checkbox', {
-   data() {
-      return { checked: false, title: 'Check me' }
+ data() {
+  return { checked: false, title: 'Check me' }
 	},
-      methods: {
-	check() { this.checked = !this.checked; }
+  methods: {
+   check() { this.checked = !this.checked; }
 	},
-      render(createElement) {
-	return createElement(
-		'div',
-		  {
-	           attrs: {
-		'class': 'checkbox-wrapper'
-		   },  
-	              on: {
-		        click: this.check
-		         }
-		  	},
-		  	[
-		    	 createElement(
-	      		   'div',
-	      		     {
-	                   'class': {
-	        		checkbox: true,
-	        		checked: this.checked
-        			}
-	      		    }
-		    	),
-		    	 createElement(
-	      		    'div',
-	      		    {
-	        	       attrs: {
-	          		'class': 'title'
-	        		}
-	      		    },
-	      		    [ this.title ]
-		    	)
-		  ]
-		);
-	}
+   render(createElement) {
+    return createElement(
+        'div',
+     {
+	attrs: {
+        'class': 'checkbox-wrapper'
+            },  
+	     on: {
+             click: this.check
+	 }
+        },
+	 [
+          createElement(
+	    'div',
+	     {
+	      'class': {
+	        checkbox: true,
+	        checked: this.checked
+        	}
+	      }
+             ),
+	  createElement(
+	    'div',
+	     {
+	      attrs: {
+	        'class': 'title'
+	        }
+	      },
+	      [ this.title ]
+	)
+       ]
+      );
+     }
 });
 ```
 
@@ -169,17 +169,17 @@ JSX requires you to transpile first, as it is not readable by browsers. But, if 
 
 ```js
 Vue.component('my-checkbox', {
-   data() {
-	return { checked: false, title: 'Check me' }
+ data() {
+  return { checked: false, title: 'Check me' }
+   },
+  methods: {
+   check() { this.checked = !this.checked; }
 	},
-      methods: {
-	check() { this.checked = !this.checked; }
-	},
-      render() {
-	return <div class="checkbox-wrapper" onClick={ this.check }>
-	          <div class={{ checkbox: true, checked: this.checked }}></div>
-		  <div class="title">{ this.title }</div>
-	       </div>
+    render() {
+     return <div class="checkbox-wrapper" onClick={ this.check }>
+	     <div class={{ checkbox: true, checked: this.checked }}></div>
+             <div class="title">{ this.title }</div>
+	    </div>
 	}
 });
 ```
