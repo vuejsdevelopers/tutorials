@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Pre-rendering is an alternative approach to server-side rendering that may even be better in some circumstances. In this article we'll explore how pre-rendering works with Vue.js and look at examples from Node.js and Laravel.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Pre-Render A Vue.js App (With Node Or Laravel)",
+  "repository": "https://github.com/vuejsdevelopers"
+}
