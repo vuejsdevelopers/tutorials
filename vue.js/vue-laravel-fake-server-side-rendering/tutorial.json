@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Server-side rendering is all the rage right now. But if you aren't using a Node.js server then you're out of luck. In this article I'm going to explain a method I use to fake server-side rendering using Vue.js and Laravel.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Faking Server-Side Rendering With Vue.js and Laravel",
+  "repository": "https://github.com/vuejsdevelopers"
+}
