@@ -1,4 +1,4 @@
-#Don't Forget Browser Button UX In Your Vue.js App
+# Don't Forget Browser Button UX In Your Vue.js App
 
 When building single-page applications many Vue developers forget about UX for browser button navigation. They mistakenly assume that this kind of navigtion is the same as hyperlink navigation when in fact it can be quite different. 
 
