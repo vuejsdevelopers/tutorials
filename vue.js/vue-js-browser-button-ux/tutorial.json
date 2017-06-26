@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "When building single-page Vue applications many developers forget to create good UX for browser button navigation. In this article we look at how we can set up smooth and predictable UX when moving back and forward between pages using nav buttons.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Don't Forget Browser Button UX In Your Vue.js App",
+  "repository": "https://github.com/vuejsdevelopers"
+}
