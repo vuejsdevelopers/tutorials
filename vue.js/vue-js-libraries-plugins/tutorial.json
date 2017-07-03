@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Lodash, Moment, Axios, Async…these are useful Javascript libraries to utilise in your Vue.js apps. In this article we look at a method for including libraries that is DRY, avoids globals and makes them consistently available across your all your components and module files.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Use Any Javascript Library With Vue.js",
+  "repository": "https://github.com/vuejsdevelopers"
+}
