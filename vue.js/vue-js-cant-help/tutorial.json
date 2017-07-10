@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "If you want to build a page with JavaScript, VueJS can do one helluva job on it. But Vue has no dominion over the head and body tags. What can you do if you need to manage these?",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "When VueJS Can't Help You",
+  "repository": "https://github.com/vuejsdevelopers"
+}
