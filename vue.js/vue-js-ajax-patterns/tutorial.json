@@ -1,0 +1,20 @@
+{
+	"author":{
+	"name" : "Anthony",
+	"email" : "anthony@vuejsdevelopers.com",
+	"description" : "Web page developer, author and online course instructor with Vue.js Developers",
+	"homepage" : "http://vuejsdevelopers.com",
+	"twitter" : "https://twitter.com/vuejsdevelopers"
+	}
+
+	"description" : "Vue.js is a UI framework, but you often need to display data from the server. What is the best way to implement AJAX in Vue? In this article I cover four different approaches, each with their own pros and cons.",
+	"homepage" : "http://vuejsdevelopers.com",
+	"keywords" [
+		"vue.js",
+	],
+
+	"library-tags" : ["vue.js"],
+	"name" : "4 AJAX Patterns For Vue.js Apps",
+	"repository" : "https://github.com/vuejsdevelopers"
+	
+}
