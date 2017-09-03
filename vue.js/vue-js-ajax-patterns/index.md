@@ -13,7 +13,7 @@ In this article, I'll show you four places you can implement AJAX in a Vue app:
 
 I'll explain each approach, give an example, and cover the pros and cons as well.
 
-> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/?jsdojo_id=cjs_riv) on 2017/08/28*
+> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/?jsdojo_id=cjs_var) on 2017/08/28*
 
 ## 1. Root instance
 
@@ -205,8 +205,8 @@ Instead, inject initial application state into an inline script in the head of t
 
 AJAX can then be used more appropriately for subsequent data fetches. 
 
-If you're interested in learning more about this architecture, check out my article [Avoid This Common Anti-Pattern In Full-Stack Vue/Laravel Apps](https://vuejsdevelopers.com/2017/08/06/vue-js-laravel-full-stack-ajax/?jsdojo_id=cjs_riv).
+If you're interested in learning more about this architecture, check out my article [Avoid This Common Anti-Pattern In Full-Stack Vue/Laravel Apps](https://vuejsdevelopers.com/2017/08/06/vue-js-laravel-full-stack-ajax/?jsdojo_id=cjs_fvl).
 
 > Thanks to [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/) by Andrew H Farmer for inspiration.
 
-> *Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_riv)*
+> *Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_var)*
