@@ -1,3 +1,5 @@
+![](https://d33wubrfki0l68.cloudfront.net/d13626cc3c3795724201bd9d9eaf0777564cafdc/a053c/images/posts/vuex_plugins.jpg)
+
 There are a lot of good reasons to use Vuex to manage the state of your Vue.js app. For one, it's really easy to add super-cool features with a Vuex plugin. Developers in the Vuex community have created a tonne of free plugins for you to use, with many of the features you can imagine, and some you may not have imagined.
 
 In this article, I will show you five feature that you can easily add to your next project with a Vuex plugin.
