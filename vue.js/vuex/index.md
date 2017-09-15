@@ -22,7 +22,7 @@ A good use case for this would be a shopping cart: if the user accidentally clos
 
 [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) synchronizes state between different browser tabs. It does this by storing a mutation to local storage. The storage event triggers an update in all other tabs/windows, which replays the mutation, thus keeping state in sync.
 
-![](tutorials/vue.js/vuex/vuex_plugins_02.gif)
+![](vuex_plugins_02.gif)
 
 ## 3. Language localization
 
@@ -30,19 +30,19 @@ A good use case for this would be a shopping cart: if the user accidentally clos
 
 One cool feature is that you can store strings with tokens e.g. "Hello {name}, this is your Vue.js app.". All your translations can have the same token where it's needed in the string.
 
-![](tutorials/vue.js/vuex/vuex_plugins_03.gif)
+![](vuex_plugins_03.gif)
 
 ## 4. Managing multiple loading states
 
 [vuex-loading](https://github.com/f/vuex-loading) helps to manage multiple loading states in your application. This plugin is handy for real-time apps where changes in state are frequent and complex.
 
-![](tutorials/vue.js/vuex/vuex_plugins_04.gif)
+![](vuex_plugins_04.gif)
 
 ## 5. Caching actions
 
 [vuex-cache](https://github.com/superwf/vuex-cache) can cache your Vuex actions. For example, if you're retrieving data from a server, this plugin will cache the result the first time you call the action, then return the cached value on subsequent dispatches. It's trivial to clear the cache when necessary.
 
-![](tutorials/vue.js/vuex/vuex_plugins_05.gif)
+![](vuex_plugins_05.gif)
 
 I'd love to hear your favorite Vuex plugins in the comments below!
 
