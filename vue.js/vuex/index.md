@@ -10,7 +10,7 @@ In this article, I will show you five feature that you can easily add to your ne
 1. Managing multiple loading states
 1. Caching actions
 
-> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2017/09/11/vue-js-vuex-plugins/?jsdojo_id=gbw_vpl) on 2017/09/11*
+> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_vpl) on 2017/09/11*
 
 ## 1. Persisting state
 
