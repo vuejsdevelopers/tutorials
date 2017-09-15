@@ -1,0 +1,19 @@
+{
+	"author":{
+		"name":"Anthony",
+		"email":"anthony@vuejsdevelopers.com",
+		"description":,
+		"homepage":"http://vuejsdevelopers.com",
+		"twitter": "https://twitter.com/vuejsdevelopers"
+	},
+
+	"description":"Here are five super-cool feature that you can easily add to your next Vue.js project with a Vuex plugin.",
+	"homepage":"http://vuejsdevelopers.com",
+	"keywords":[
+		"vue.js","vuex","plugins"
+	],
+
+	"library-tags": ["vue.js"],
+	"name":"5 Vuex Plugins For Your Next VueJS Project",
+	"repository":"https://github.com/vuejsdevelopers"
+}
