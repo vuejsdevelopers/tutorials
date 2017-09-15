@@ -42,6 +42,8 @@ One cool feature is that you can store strings with tokens e.g. "Hello {name}, t
 
 [vuex-cache](https://github.com/superwf/vuex-cache) can cache your Vuex actions. For example, if you're retrieving data from a server, this plugin will cache the result the first time you call the action, then return the cached value on subsequent dispatches. It's trivial to clear the cache when necessary.
 
+![](https://d33wubrfki0l68.cloudfront.net/f3f0bb03510389590246e3391616db44bc9c744b/d889f/images/posts/vuex_plugins_04.gif)
+
 I'd love to hear your favorite Vuex plugins in the comments below!
 
 > *Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/?jsdojo_id=gbw_vp;)*
