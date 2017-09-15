@@ -16,7 +16,7 @@ In this article, I will show you five feature that you can easily add to your ne
 
 A good use case for this would be a shopping cart: if the user accidentally closes a tab, they can reopen it with the page state intact.
 
-![](tutorials/vue.js/vuex/vuex_plugins_01.gif)
+![](vuex_plugins_01.gif)
 
 ## 2. Syncing tabs/windows
 
