@@ -1,0 +1,19 @@
+{
+	"author":{
+		"name":"Anthony",
+		"email":"anthony@vuejsdevelopers.com",
+		"description":,
+		"homepage":"http://vuejsdevelopers.com",
+		"twitter": "https://twitter.com/vuejsdevelopers"
+	},
+
+	"description":"It's a common practice for a Vue app to use the DOM as its template. This practice comes with a few catches, however, that make it an undesirable choice. In this article, I'll explain the issues and offer some alternatives.",
+	"homepage":"http://vuejsdevelopers.com",
+	"keywords":[
+		"vue.js","templates","render", "components"
+	],
+
+	"library-tags": ["vue.js"],
+	"name":"Why You Should Avoid Vue.js DOM Templates",
+	"repository":"https://github.com/vuejsdevelopers"
+}
