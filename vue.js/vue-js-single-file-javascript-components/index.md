@@ -1,3 +1,5 @@
+# Vue.js Single-File JavaScript Components In The Browser
+
 Browser support for native JavaScript modules is finally happening. The latest versions of Safari and Chrome support them, Firefox and Edge will soon too.
 
 One of the cool things about JavaScript modules for Vue.js users is that they allow you to organize your components into their own files without any kind of build step required. 
