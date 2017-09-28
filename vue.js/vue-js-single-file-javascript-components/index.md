@@ -178,8 +178,7 @@ Using the module system gives you a smaller project size. However, the Webpack p
 
 I suspect preloading would improve the speed of the modules project, but we're a bit early for this to work:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Blink will be addressing this with &lt;link rel=modulepreload&gt; initially however this is not yet implemented.</p>&mdash; Addy Osmani (@addyosmani) <a href="https://twitter.com/addyosmani/status/908518983367745536">September 15, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+![](tweet.png)
 
 Webpack is still the better choice for module-based architectures, but it's nice to know native modules are a thing.
 
