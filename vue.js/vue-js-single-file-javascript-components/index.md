@@ -101,7 +101,7 @@ $ http-server
 
 To view the app you will, of course, need to use a browser which supports JavaScript modules. I'm using Chrome 61.
 
-![](tutorials/vue.js/vue-js-single-file-javascript-components/single_file_js_component_02.png)
+![](single_file_js_component_02.png)
 
 ## Fallback 
 
@@ -160,7 +160,7 @@ After a build, the bundle can now be loaded as the fallback script:
 
 This Webpack version will work identically in a browser without native module support. Here it is in Firefox, note that *build.js* has loaded and not the module:
 
-![](tutorials/vue.js/vue-js-single-file-javascript-components/single_file_js_component_02.png)
+![](single_file_js_component_02.png)
 
 ## Performance comparison
 
