@@ -1,0 +1,19 @@
+{
+	"author":{
+		"name":"Anthony",
+		"email":"anthony@vuejsdevelopers.com",
+		"description":,
+		"homepage":"http://vuejsdevelopers.com",
+		"twitter": "https://twitter.com/vuejsdevelopers"
+	},
+
+	"description":"One of the cool things about native JavaScript modules for Vue.js users is that they allow you to organize your components into their own files without any kind of build step required. In this article, I'm going to show you how to write a single-file JavaScript component without any Babel or Webpack!",
+	"homepage":"http://vuejsdevelopers.com",
+	"keywords":[
+		"vue.js","vuex","components"
+	],
+
+	"library-tags": ["vue.js"],
+	"name":"Vue.js Single-File JavaScript Components In The Browser",
+	"repository":"https://github.com/vuejsdevelopers"
+}
