@@ -2,7 +2,7 @@ Scoped slots are a useful feature of Vue.js that can make components more versat
 
 A good approach when you can't understand something easily is to try put it to use in solving a problem. In this article, I'll demonstrate how I used scoped slots to build a reusable list component.
 
-![](https://d33wubrfki0l68.cloudfront.net/23dc988ce4da92ed03f89a1f4dd9b90dd68eeebd/04277/images/posts/scoped_slots_02.png)
+![](scoped_slots_02.png)
 
 > Note: You can see the finished product in [this Codepen](https://codepen.io/anthonygore/pen/zExPZX).
 
@@ -129,7 +129,7 @@ new Vue({
 
 That will look like this:
 
-![Shape and color list](/images/posts/scoped_slots_02.png)
+![](scoped_slots_02.png)
 
 ## Superficial components
 
