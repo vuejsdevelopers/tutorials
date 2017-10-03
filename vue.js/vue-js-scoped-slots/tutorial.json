@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Scoped slots are a useful feature of Vue that can make components more versatile and reusable. The only problem is they're hard to understand! In this article, I'll go through a step-by-step example so you can see how useful scoped slots are.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "components", "slots"
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Getting Your Head Around Vue.js Scoped Slots",
+  "repository": "https://github.com/vuejsdevelopers"
+}
