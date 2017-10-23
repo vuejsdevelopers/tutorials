@@ -9,11 +9,11 @@ Vue.component('recursive-component', {
 
 Recursive components are useful for displaying comments on a blog, nested menus, or basically anything where the parent and child are the same, albeit with different content. For example:
 
-![recursive_components_01.png](https://cdn.filestackcontent.com/KQ6IAxsvSBKYJkp95ji6)
+![](recursive_components_01.png)
 
 To give you a demonstration of how to use recursive components effectively, I'll go through the steps of building an expandable/contractable tree menu.
 
-> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/?jsdojo_id=cm_rec) on 2017/10/23*
+> *Note: this article was originally posted [here on the Vue.js Developers blog](hhttps://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/?jsdojo_id=cjs_rec) on 2017/10/23*
 
 ## Data structure
 
@@ -131,13 +131,13 @@ Remember that our data structure has a single root node. To begin the recursion 
 
 Here's how it looks so far:
 
-![recursive_components_02.png](https://cdn.filestackcontent.com/hiDs32zRnuXgoD0UHXTw)
+![](recursive_components_02.png)
 
 ## Indentation
 
 It'd be nice to visually identify the "depth" of a child component so the user gets a sense of the structure of the data from the UI. Let's increasingly indent each tier of children to achieve this.
 
-![recursive_components_03.png](https://cdn.filestackcontent.com/ZHZO0T9MTLvw8hr2k0V7)
+![](recursive_components_03.png)
 
 This is implemented by adding a `depth` prop to `TreeMenu`. We'll use this value to dynamically bind inline style with a `transform: translate` CSS rule to each node's label, thus creating the indentation.
 
@@ -231,4 +231,6 @@ With that, we've got a working tree menu. As a nice finishing touch, you can add
 
 Inspect the [Codepen](https://codepen.io/anthonygore/pen/PJKNqa) to see how I implemented it.
 
-![recursive_components_04.png](https://cdn.filestackcontent.com/G1j27yZjS4aPp8CKAayS)
+![](recursive_components_04.png)
+
+> *Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_rec)*
