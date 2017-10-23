@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "A recursive component is one which invokes itself and is useful for displaying comments on a blog, nested menus or anything where the parent and child are the same. In this tutorial, I'll give you a demonstration of how to build a collapsible tree menu.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js","components"
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Build A Collapsable Tree Menu With Vue.js Recursive Components",
+  "repository": "https://github.com/vuejsdevelopers"
+}
