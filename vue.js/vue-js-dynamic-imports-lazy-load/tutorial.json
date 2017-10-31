@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Dynamic module importing is one of the latest JavaScript features to hit the major browsers. In this article I'll demonstrate how you can build a lazy-load router with Vue.js that works natively in supported browsers. Without having to polyfill a module loading system, you can create this with just a few lines of code.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "components", "router", "components", "chrome","javascript"
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Build A Lazy-Load Router With Vue.js And The Lastest Browser Features",
+  "repository": "https://github.com/vuejsdevelopers"
+}
