@@ -1,3 +1,5 @@
+![](laravel_ssr.jpg)
+
 Server-side rendering is great way to increase the perception of loading speed in your full-stack app. Users get a complete page with visible content when they load your site, as opposed to an empty page that doesn't get populated until JavaScript runs.
 
 One of the downsides of using Laravel as a backend for Vue.js was the inability to server render your code. *Was*. The release of Vue.js 2.5.0 has brought server-side rendering support to non-Node.js environments including PHP, Python, Ruby etc.
@@ -50,10 +52,7 @@ php-v8js is the PHP extension that will give access to Google's V8 Javascript en
 
 If you have a bit of skill with dev ops, you might try install it yourself. If not, I recommend you use [this Docker image](https://hub.docker.com/r/doctorlove/docker-php-apache-v8js-node/) and install Laravel on that.
 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Got <a href="https://twitter.com/hashtag/devops?src=hash&amp;ref_src=twsrc%5Etfw">#devops</a> skill and looking for a weekend project? A docker or vagrant image with <a href="https://twitter.com/hashtag/Laravel?src=hash&amp;ref_src=twsrc%5Etfw">#Laravel</a> and V8Js would be super useful for <a href="https://twitter.com/hashtag/Vuejs?src=hash&amp;ref_src=twsrc%5Etfw">#Vuejs</a> SSR!🙏</p>&mdash; Vue.js Developers (@vuejsdevelopers) <a href="https://twitter.com/vuejsdevelopers/status/924587000711098369?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+![tweet](tweet.png)
 
 ### Installing dependencies
 
