@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "The release of Vue.js 2.5.0 has brought server-side rendering support to non-Node.js environments including PHP. In this article, I'll go through the steps of setting up a Vue server-rendered app using Laravel and V8Js",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "Laravel", "Server side rendering",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Server-Side Rendering With Laravel & Vue.js 2.5",
+  "repository": "https://github.com/vuejsdevelopers"
+}
