@@ -1,4 +1,4 @@
-![](/vuex_undo_redo.jpg)
+![](vuex_undo_redo.jpg)
 
 There are many benefits to centralizing your application state in a Vuex store. One benefit is that all transaction are recorded. This allows for handy features like *time-travel debugging* where you can jump between previous states to isolate problems.
 
