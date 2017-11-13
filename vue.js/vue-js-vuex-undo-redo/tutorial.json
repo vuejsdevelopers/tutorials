@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Vuex is a great way to manage the state of your Vue application. In this article, I'll demonstrate how to create an undo/redo feature with Vuex, which works in a similar way to time-travel debugging.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "Vuex", "Plugins",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Create A Vuex Undo/Redo Plugin For VueJS",
+  "repository": "https://github.com/vuejsdevelopers"
+}
