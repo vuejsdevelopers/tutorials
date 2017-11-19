@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Vuebnb is a clone of Airbnb built with Vue.js and Laravel. In this post, I'll give a high-level overview of how it works so you get a sense of what's involved in building a full-stack Vue/Laravel app.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js","laravel", "vuex"
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Vuebnb: A Full-Stack Vue.js and Laravel App",
+  "repository": "https://github.com/vuejsdevelopers"
+}
