@@ -1,3 +1,5 @@
+![](vuebnb.jpg)
+
 This year I've been writing a new book called *Full-Stack Vue Web Development: Vue.js, Vuex and Laravel*. It'll be published in early 2018 by Packt Publishing.
 
 The book is centred around a case study project, *Vuebnb*, a simple clone of Airbnb. In this post, I'll give a high-level overview of how it works so you get a sense of what's involved in building a full-stack Vue/Laravel app from scratch.
