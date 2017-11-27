@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "In this tutorial you'll learn how to server render a multi-page Vue.js app using Vue Router in a Laravel environment with V8Js",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "laravel", "router", "server-side rendering",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App",
+  "repository": "https://github.com/vuejsdevelopers"
+}
