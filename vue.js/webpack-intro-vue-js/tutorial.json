@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Webpack promises great things for Vue developers. But the range of possibilities of Webpack are also why it's so intimidating to learn. In this article, I'll give you a gentle introduction to Webpack without the jargon that may have you bewildered.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "Webpack",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Jargon-Free Webpack Intro For VueJS Users",
+  "repository": "https://github.com/vuejsdevelopers"
+}
