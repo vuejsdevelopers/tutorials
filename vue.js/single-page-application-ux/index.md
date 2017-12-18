@@ -1,4 +1,4 @@
-![](spa_ux.png)
+![](spa_ux.jpg)
 
 If there were a Hippocratic oath for web developers, it would surely include a promise that any modification to a web page will provide a net improvement to User Experience. 
 
