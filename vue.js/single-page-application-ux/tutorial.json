@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "The SPA architecture is designed to improve user experience in web applications. If poorly implemented, though, it can cause more problems than it fixes. In this article, we'll take a look at the common pitfalls of SPAs that detract from user experience.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "design patterns", "web performance",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "How To Not Screw Up UX In A Single-Page Application",
+  "repository": "https://github.com/vuejsdevelopers"
+}
