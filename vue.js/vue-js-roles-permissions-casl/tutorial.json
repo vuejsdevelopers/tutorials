@@ -1,0 +1,20 @@
+{
+	"author":{
+	"name" : "Anthony",
+	"email" : "anthony@vuejsdevelopers.com",
+	"description" : "Web page developer, author and online course instructor with Vue.js Developers",
+	"homepage" : "http://vuejsdevelopers.com",
+	"twitter" : "https://twitter.com/vuejsdevelopers"
+	},
+
+	"description" : "In authenticated frontend apps we can change what a user can see depending on their role e.g. guest, admin etc. In this article, we implement a simple but scalable permission system into a Vue.js app using the CASL library.",
+	"homepage" : "http://vuejsdevelopers.com",
+	"keywords" : [
+		"vue.js"
+	],
+
+	"library-tags" : ["vue.js"],
+	"name" : "Managing User Permissions in a VueJS App",
+	"repository" : "https://github.com/vuejsdevelopers"
+	
+}
