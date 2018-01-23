@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "There are a number of new features in ES2015 that make JavaScript development better and more enjoyable. In this article, I'll show you four new features that you'll use on a daily basis with Vue, providing an explanation and brief example of each.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "javascript",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "4 Essential ES2015 Features For Vue.js Development",
+  "repository": "https://github.com/vuejsdevelopers"
+}
