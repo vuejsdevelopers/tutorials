@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "In this tutorial, I'll show you how to set up a full-stack VueJS/Laravel app and demo each of the CRUD operations. We'll use Axios for AJAX, and I'll also show you strategies for dealing with the tricky UX of this architecture.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "laravel", "ajax",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "The Ultimate Vue.js & Laravel CRUD Tutorial",
+  "repository": "https://github.com/vuejsdevelopers"
+}
