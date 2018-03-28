@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "If you thought Vue couldn't possibly get any better, then you'll be shocked by Vue CLI 3. It's a major leap forward in both flexibility and ease of use. It provides your Vue projects with instant access to the best build tools from the frontend world, combining them seamlessly with sensible defaults. At the same time, Vue CLI 3 allows easy configuration and customization to fit your specific needs.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "cli",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Vue CLI 3: A Game Changer For Frontend Development",
+  "repository": "https://github.com/vuejsdevelopers"
+}
