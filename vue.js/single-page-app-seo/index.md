@@ -6,6 +6,8 @@ A notoriously murky area of single-page application (SPA) development is SEO. De
 
 In this article, we'll challenge the popular opinions, do doing some basic tests and try to conclude with some sensible advice for building SEO-friendly SPAs.
 
+> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2018/04/09/single-page-app-seo/?jsdojo_id=cjs_seo) on 2018/04/09*
+
 ## The issue with client-rendered content
 
 The standard implementation of a single-page app provides a page "shell" to the browser without any meaningful content included. The content is instead loaded on demand from the server with AJAX and then added to the page by JavaScript. 
@@ -18,8 +20,6 @@ This allows a user to view the "pages" of an SPA site without a page refresh, th
 While this architecture works for human users viewing the page in a browser, what about search engine crawlers? Can crawlers run JavaScript? If so, will they wait for the AJAX calls to complete before crawling the page? 
 
 It's important to know this, as it could determine whether or not the site's content is indexable by a search engine, and just as importantly, how well its content is ranked.
-
-> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2018/04/09/single-page-app-seo/?jsdojo_id=cjs_seo) on 2018/04/09*
 
 ## Googlebot
 
