@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "SPAs typically provide a page to the browser that has no meaningful content. Content is instead loaded by AJAX as the user navigates the site. Can a search engine index this content? Does it rank as well as static HTML? This article will attempt to bring clarity to these questions.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "seo", "prerendering","server-side rendering",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Is My Single-Page Application SEO Friendly?",
+  "repository": "https://github.com/vuejsdevelopers"
+}
