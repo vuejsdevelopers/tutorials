@@ -1,4 +1,4 @@
-![](seo.jpg)
+![](seo.png)
 
 A notoriously murky area of single-page application (SPA) development is SEO. Depending on who you ask, search engine crawling of client-rendered content is either [totally fine](https://flamiszoltan.me/vuejs-laravel-seo), [fine as long as it's synchronous](https://ssr.vuejs.org/en/) or [not at all fine](https://medium.com/@gajus/prerendering-spa-for-seo-and-improved-perceived-page-loading-speed-47075aa16d24).
 
