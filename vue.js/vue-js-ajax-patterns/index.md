@@ -209,4 +209,4 @@ If you're interested in learning more about this architecture, check out my arti
 
 > Thanks to [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/) by Andrew H Farmer for inspiration.
 
-> *Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_var)*
+> *Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](	https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_5bt)*
