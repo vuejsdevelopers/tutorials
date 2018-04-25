@@ -1,0 +1,20 @@
+{
+	"author":{
+	"name" : "Anthony",
+	"email" : "anthony@vuejsdevelopers.com",
+	"description" : "Web page developer, author and online course instructor with Vue.js Developers",
+	"homepage" : "http://vuejsdevelopers.com",
+	"twitter" : "https://twitter.com/vuejsdevelopers"
+	},
+
+	"description" : "If you're about to begin an important Vue project, a template will ensure you have a solid foundation. This article covers the 5 best templates for common features like Webpack, PWA support, authentication and more.",
+	"homepage" : "http://vuejsdevelopers.com",
+	"keywords" : [
+		"vue.js", "boilerplate"
+	],
+
+	"library-tags" : ["vue.js"],
+	"name" : "5 Awesome Boilerplates/Templates For VueJS Projects",
+	"repository" : "https://github.com/vuejsdevelopers"
+	
+}
