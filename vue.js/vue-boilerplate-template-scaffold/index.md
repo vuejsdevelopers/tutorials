@@ -22,6 +22,8 @@ Etc.
 
 There are many great Vue.js templates out there, but in this article, we'll look at 5 that include key features that new projects will often require.
 
+> *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2018/04/23/vue-boilerplate-template-scaffold/?jsdojo_id=cjs_5bt) on 2018/04/23*
+
 # 1. Best for Webpack
 
 If you need a solid Webpack setup then look no further than the [Webpack](https://github.com/vuejs-templates/webpack) template included with Vue CLI 2. With almost 7000 stars on GitHub and development and maintenance by Vue team members, this template is your best bet for creating a highly optimized Webpack-powered SPA.
@@ -97,3 +99,5 @@ The only downside to Vuexpresso is that it is still fairly new, so be sure to ha
 **Link**: [https://github.com/Ethaan/vuexpresso](https://github.com/Ethaan/vuexpresso)
 
 > Another boilerplate with GraphQL support is [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) which also includes critical-path CSS extraction via Critical.
+
+> *Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_var)*
