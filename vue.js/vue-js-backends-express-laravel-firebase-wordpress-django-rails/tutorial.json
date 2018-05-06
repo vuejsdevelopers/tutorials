@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "There are many backend options for Vue apps, each with its pros and cons. In this article, we'll investigate the suitability of some of the most popular options including Express, Laravel, WordPress, Firebase, Rails, Django and even serverless.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js","rails" ,"django" ,"wordpress" ,"firebase" ,"laravel" ,"serverless"
+  ],
+  "library-tags": ["vue.js"],
+  "name": "The Best Backends For VueJS Apps",
+  "repository": "https://github.com/vuejsdevelopers"
+}
