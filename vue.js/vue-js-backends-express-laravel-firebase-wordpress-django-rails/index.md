@@ -8,13 +8,13 @@ It makes sense to work with what you already know and enjoy. That said, each bac
 
 Your best bet is to get familiar with what's available so you can make a well-informed choice. In this article, we'll investigate the suitability of some of the most popular backend options for Vue apps:
 
-- [Express](#express)
-- [Laravel](#laravel)
-- [WordPress](#wordpress)
-- [Firebase](#firebase)
-- [Serverless](#serverless)
-- [Django](#django)
-- [Rails](#rails)
+- Express
+- Laravel
+- WordPress
+- Firebase
+- Serverless
+- Django
+- Rails
 
 > *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2018/05/07/vue-js-backends-express-laravel-firebase-wordpress-django-rails/?jsdojo_id=cjs_bbv) on 2018/05/07*
 
