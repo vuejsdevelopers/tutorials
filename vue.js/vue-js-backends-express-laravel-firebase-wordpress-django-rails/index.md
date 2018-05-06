@@ -1,4 +1,4 @@
-[The Best Backends For VueJS Apps](backends.jpg)
+![The Best Backends For VueJS Apps](backends.jpg)
 
 Which backend are you planning to use for your next Vue.js project? 
 
@@ -18,7 +18,7 @@ Your best bet is to get familiar with what's available so you can make a well-in
 
 > *Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2018/05/07/vue-js-backends-express-laravel-firebase-wordpress-django-rails/?jsdojo_id=cjs_bbv) on 2018/05/07*
 
-[Express logo](backends_express.png)
+![Express logo](backends_express.png)
 
 
 The de facto choice for a Vue.js backend is [Express.js](https://expressjs.com/), a microframework for Node.js.
@@ -42,7 +42,7 @@ If your goal is to build a web app that is mostly about the frontend and only re
 ](https://github.com/icebob/vue-express-mongo-boilerplate)
 - [VueJS + Express + GraphQL Boilerplate](https://github.com/Ethaan/vuexpresso)
 
-[Laravel logo](backends_laravel.png)
+![Laravel logo](backends_laravel.png)
 
 
 [Laravel](https://laravel.com/) is an MVC framework for PHP with the stated goal of "making developers happy". Consistently delivering on this goal is why Laravel has become the most popular backend framework on GitHub.
@@ -85,7 +85,7 @@ If you need access to more core WordPress functionality than the API can provide
 - [WP Vue](https://github.com/alexmacarthur/wp-vue)
 - [vue-wordpress-pwa](https://github.com/bstavroulakis/vue-wordpress-pwa)
 
-[Firebase logo](backends_firebase.png)
+![Firebase logo](backends_firebase.png)
 
 
 Firebase provides cloud-hosted data that is accessible from any desktop or mobile app via a simple API. If your data is public, you could even use Firebase as a serverless backend! (more on this in the [next section](#serverless)). 
@@ -109,7 +109,7 @@ Integrating Firebase services with your Vue.js 2 application is dead simple with
 - [vue-firebase-auth-vuex](https://github.com/aofdev/vue-firebase-auth-vuex)
 - [vuefire-quickstart](https://github.com/sejr/vuefire-quickstart)
 
-[Serverless logo](backends_serverless.png)
+![Serverless logo](backends_serverless.png)
 
 
 What if I told you you didn't need a backend server at all for your Vue app? Instead, backend functionality could be handled by one or more cloud-hosted scripts that run only as required.
@@ -128,7 +128,7 @@ What serverless it's great for is when you have a small number request/response 
 - [Creating a Vue.js Serverless Checkout Form](https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/)
 - [Serverless Vue.js with GraphQL](https://medium.com/the-web-tub/serverless-vue-js-with-graphql-76a1ba4ceb1e)
 
-[Django logo](backends_django.png)
+![Django logo](backends_django.png)
 
 
 If you've learned to program formally, there's a good chance you've been exposed to the powerful Python language. [Django](https://www.djangoproject.com/) is the most popular Python-based MVC framework for web development. 
@@ -151,7 +151,7 @@ Django is a batteries-included and comes with a database, ORM, authentication li
 - [hello-vue-django](https://github.com/rokups/hello-vue-django)
 - [cookiecutter-django-vue](https://github.com/vchaptsev/cookiecutter-django-vue)
 
-[Rails logo](backends_rails.png)
+![Rails logo](backends_rails.png)
 
 
 Rails is an MVC-style framework for the Ruby programming language that has been influential on most of the backends we've covered in this article. It pioneered a "convention over configuration" approach to server frameworks that makes it easy to get started with and results in clean and easy-to-read code. Rails powers many major web applications today like Basecamp, GitHub, and Shopify.
