@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Anthony",
+    "email": "anthony@vuejsdevelopers.com",
+    "description": "Web developer, author and online course instructor with Vue.js Developers",
+    "homepage": "http://vuejsdevelopers.com",
+    "twitter": "https://twitter.com/vuejsdevelopers"
+  },
+  "description": "Vue.js is an effective tool for creating web components, especially with Vue CLI 3 and the new @vue/web-component-wrapper. In this article, we'll look at reasons why you might want to create web components and how you can make your first one with nothing more than a basic knowledge of Vue.",
+  "homepage": "http://vuejsdevelopers.com",
+  "keywords": [
+    "vue.js", "web components",
+  ],
+  "library-tags": ["vue.js"],
+  "name": "Create & Publish Web Components With Vue CLI 3",
+  "repository": "https://github.com/vuejsdevelopers"
+}
