@@ -1,6 +1,10 @@
+# Speed Up Development With Prototyping and Vue
+
 ![](prototyping.jpg)
 
 Have you ever worked on a project that got away from you? It's easy to start with a project, only to find yourself overwhelmed with new skills and challenges. Prototypes help keep projects small, and help developers decide if they're worth pursuing. Furthermore, we can leverage the flexibility of Vue to build prototypes, so we can iterate on ideas quickly.
+
+*Note: this article was originally posted [here on the Vue.js Developers blog](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/?jsdojo_id=cjs_sjp) on 2017/06/04
 
 ## Product vs. Prototype
 
@@ -14,8 +18,6 @@ As web developers, we often make the product before the prototype. If you've eve
 * If you'd like to try out some new technology, you can use a prototype to explore it, instead of experimenting in a production environment
 
 Products take more time to make, requiring research and testing. On the other hand, prototypes require less time and fewer resources. We'll explore how to make a prototype instead of a product with modern web tools including Vue.js.
-
-*Note: this article was originally posted [here on the Vue.js Developers blog](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/?jsdojo_id=cjs_sjp) on 2017/06/04
 
 ## An Example
 
@@ -196,3 +198,5 @@ If you have an idea for a product, it's best to start with a prototype. When dev
 * Guides for [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * Sarah Dranser's article on [Components, Slots, and Props](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
 * Adam Wathan's article on [renderless components](https://adamwathan.me/renderless-components-in-vuejs/) (This is an advanced, but useful topic)
+
+*Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](	https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_rpv)*
