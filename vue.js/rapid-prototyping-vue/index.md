@@ -29,10 +29,7 @@ Throughout this example, we'll identify **minimum viable solutions** for our pro
 
 This is what the final product will look like:
 
-
-
-<p data-height="265" data-theme-id="0" data-slug-hash="rvqKEV" data-default-tab="html,result" data-user="pj_" data-embed-version="2" data-pen-title="Sunrise Sunset Prototype Example" class="codepen">See the Pen <a href="https://codepen.io/pj_/pen/rvqKEV/">Sunrise Sunset Prototype Example</a> by PJ Trainor (<a href="https://codepen.io/pj_">@pj_</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+![Check it out on codepaen](https://codepen.io/pj_/pen/rvqKEV)
 
 > This is an actual example of an idea I had that _should_ have been a prototype, but ended up being an unfinished product. Let's see if we can learn from my mistakes!
 
