@@ -4,7 +4,7 @@
 
 Have you ever worked on a project that got away from you? It's easy to start with a project, only to find yourself overwhelmed with new skills and challenges. Prototypes help keep projects small, and help developers decide if they're worth pursuing. Furthermore, we can leverage the flexibility of Vue to build prototypes, so we can iterate on ideas quickly.
 
->*Note: this article was originally posted [here on the Vue.js Developers blog](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/?jsdojo_id=cjs_sjp) on 2017/06/04
+>*Note: this article was originally posted [here on the Vue.js Developers blog](	https://vuejsdevelopers.com/2018/06/04/rapid-prototyping-vue/?jsdojo_id=cjs_rpv) on 2017/06/04
 
 ## Product vs. Prototype
 
@@ -196,4 +196,4 @@ If you have an idea for a product, it's best to start with a prototype. When dev
 * Sarah Dranser's article on [Components, Slots, and Props](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
 * Adam Wathan's article on [renderless components](https://adamwathan.me/renderless-components-in-vuejs/) (This is an advanced, but useful topic)
 
-*Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](	https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_rpv)*
+*Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_rpv)*
