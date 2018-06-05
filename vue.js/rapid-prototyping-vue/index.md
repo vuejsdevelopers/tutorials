@@ -29,7 +29,7 @@ Throughout this example, we'll identify **minimum viable solutions** for our pro
 
 This is what the final product will look like:
 
-![Check it out on codepaen](https://codepen.io/pj_/pen/rvqKEV)
+[Check it out on codepaen](https://codepen.io/pj_/pen/rvqKEV)
 
 > This is an actual example of an idea I had that _should_ have been a prototype, but ended up being an unfinished product. Let's see if we can learn from my mistakes!
 
