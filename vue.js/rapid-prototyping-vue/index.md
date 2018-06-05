@@ -4,7 +4,7 @@
 
 Have you ever worked on a project that got away from you? It's easy to start with a project, only to find yourself overwhelmed with new skills and challenges. Prototypes help keep projects small, and help developers decide if they're worth pursuing. Furthermore, we can leverage the flexibility of Vue to build prototypes, so we can iterate on ideas quickly.
 
-*Note: this article was originally posted [here on the Vue.js Developers blog](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/?jsdojo_id=cjs_sjp) on 2017/06/04
+>*Note: this article was originally posted [here on the Vue.js Developers blog](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/?jsdojo_id=cjs_sjp) on 2017/06/04
 
 ## Product vs. Prototype
 
