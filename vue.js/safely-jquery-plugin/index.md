@@ -14,7 +14,7 @@ See it working in this [JS Bin](https://jsbin.com/bepikonube/2/edit?html,js,outp
 
 *jQuery UI Datepicker*
 
-*Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2018/06/04/rapid-prototyping-vue/?jsdojo_id=cjs_rpv) on 2017/05/20
+*Note: this article was originally posted [here on the Vue.js Developers blog](https://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/?jsdojo_id=cjs_sjp) on 2017/05/20
 
 ## The problem with using jQuery and Vue together
 
@@ -228,4 +228,4 @@ new Vue({
 ```
 Thanks to [this Stack Overflow answer](http://stackoverflow.com/a/40350880/2278963) for inspiration.
 
-*Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](	https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_rpv)*
+*Get the latest Vue.js articles, tutorials and cool projects in your inbox with the [Vue.js Developers Newsletter](	https://vuejsdevelopers.com/newsletter/?jsdojo_id=cjs_sjp)*
